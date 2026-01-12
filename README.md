@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/tests-202%20passing-brightgreen" alt="Tests"/>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python Versions"/>
   <img src="https://img.shields.io/github/license/medxops/zzguard" alt="License"/>
-  <img src="https://img.shields.io/github/stars/medxops/zzguard?style=social" alt="GitHub Stars"/>
 </p>
 
 ---
